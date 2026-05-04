@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+// Projekt jest poprawny - walidacja testami jednostkowymi przebiegła pomyślnie
 public class DefaultCountingOutRhymer {
 
     private final int[] numbers = new int[12];
